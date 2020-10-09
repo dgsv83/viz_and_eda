@@ -234,5 +234,7 @@ weather_df %>%
     temp_change_max = max(temp_change, na.rm = TRUE))
 ```
 
+## quick note
 
+summarize only gets you so far. 
 

@@ -457,3 +457,7 @@ weather_df %>%
     ## 1 CentralPark_NY           4.45            12.7
     ## 2 Waikiki_HA               1.23             6.7
     ## 3 Waterhole_WA             3.13             8
+
+## quick note
+
+summarize only gets you so far.
